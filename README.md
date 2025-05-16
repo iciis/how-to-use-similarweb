@@ -22,7 +22,7 @@ By the end of this guide, you’ll know exactly how to use Similarweb’s featur
 It is a comprehensive tool that helps businesses optimize their digital strategies by offering deep insights into website performance and market behavior.
 
 <a href="https://afftrend.com/how-to-use-similarweb"> 
-<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+<img src="https://drive.google.com/uc?export=view&id=1l5pL-NmRd4ipfP11-OQX4lmD0iqkEa_z" alt="Learn More"> 
 </a>
 
 ## How Similarweb is useful to you?
@@ -113,6 +113,10 @@ Use the **Industry Analysis** tool to:
 | **Enterprise** | Custom pricing | 10 | 37 months | Unlimited | Full features + enterprise security & authentication. |
 
 Similarweb offers four pricing tiers: Starter, Team, Business, and Enterprise. Plans range from $1,500/year to custom pricing. Each level increases user seats, historical data, keyword limits, and advanced tools like SERP analysis, subdomain tracking, API access, and market research, catering to both individual users and large-scale enterprises.
+
+<a href="https://afftrend.com/how-to-use-similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
 
 ## Customer Support
 
