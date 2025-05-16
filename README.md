@@ -114,10 +114,6 @@ Use the **Industry Analysis** tool to:
 
 Similarweb offers four pricing tiers: Starter, Team, Business, and Enterprise. Plans range from $1,500/year to custom pricing. Each level increases user seats, historical data, keyword limits, and advanced tools like SERP analysis, subdomain tracking, API access, and market research, catering to both individual users and large-scale enterprises.
 
-<a href="https://afftrend.com/how-to-use-similarweb"> 
-<img src="https://drive.google.com/uc?export=view&id=1mdffWcd3DvUaZL-rR-TEsvkTFz-ljfKZ" alt="Compare Pricing Plans"> 
-</a>
-
 ## Customer Support
 
 Similarweb offers a comprehensive customer support system designed to assist users across various needs, from technical issues to general inquiries. Here's an overview of their support channels:
