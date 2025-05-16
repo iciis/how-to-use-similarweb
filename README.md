@@ -21,6 +21,10 @@ By the end of this guide, you’ll know exactly how to use Similarweb’s featur
 
 It is a comprehensive tool that helps businesses optimize their digital strategies by offering deep insights into website performance and market behavior.
 
+<a href="https://afftrend.com/how-to-use-similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1copskY16kdQsj1TlHODpmoNLyVieWffZ" alt="Take a Closer Look"> 
+</a>
+
 ## How Similarweb is useful to you?
 
 **Similarweb** is a highly useful tool for digital marketers, businesses, and anyone looking to gain valuable insights into website performance and online trends. Here’s how it can help:
@@ -32,6 +36,10 @@ It is a comprehensive tool that helps businesses optimize their digital strategi
 - **Market Trends**: By analyzing traffic and behavior across multiple websites, Similarweb provides insights into current market trends, helping you make more informed decisions in your digital marketing campaigns.
 
 This is a powerful tool that gives you the data and insights needed to improve your marketing strategies and stay ahead of the competition.
+
+<a href="https://afftrend.com/how-to-use-similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=19rCMBJhMocnqU6q6CjFcZSiMCZzy34GF" alt="Get Started"> 
+</a>
 
 ## Step-by-Step: How to Use Similarweb
 
@@ -90,6 +98,10 @@ Use the **Industry Analysis** tool to:
 
 - Compare multiple competitors
 - Benchmark performance by industry
+
+<a href="https://afftrend.com/how-to-use-similarweb"> 
+<img src="https://drive.google.com/uc?export=view&id=1l-ouegktdJAOSFXBIiBNQLOVsuUwUcqb" alt="See How it Works"> 
+</a>
 
 ## Similarweb Pricing and Limitations
 
