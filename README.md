@@ -51,7 +51,6 @@ It is a comprehensive tool that helps businesses optimize their digital strategi
   <img src="https://drive.google.com/uc?export=view&id=1z4iJydmetYayfO3sIWq7UYwpFxZCyxqa"  alt="Similarweb Keyword Insights">
 </a>
 
-
 This is a powerful tool that gives you the data and insights needed to improve your marketing strategies and stay ahead of the competition.
 
 <a href="https://afftrend.com/how-to-use-similarweb"> 
@@ -62,11 +61,19 @@ This is a powerful tool that gives you the data and insights needed to improve y
 
 **Step 1: Create a Free Account**
 
+ <a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1P3wuF2S4e0Z1Ekb4zIct4nCy456-e9qR"  alt="Similarweb Dashboard">
+</a>
+
 - Go to similarweb.com
 - Click Get Started
 - Use your business email or sign in via Google
 
 **Step 2: Search for a Website**
+
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=1K2o6foAUNJrhG0K6vqlkvNdWA-STozdS"  alt="Similarweb Search Bar">
+</a>
 
 - Type a competitor’s website (e.g., **example.com**) into the search bar
 - Hit enter to see a dashboard of analytics
