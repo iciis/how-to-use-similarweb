@@ -129,6 +129,10 @@ Use the **Industry Analysis** tool to:
 
 ## Similarweb Pricing and Limitations
 
+<a href="https://afftrend.com/similarweb">
+  <img src="https://drive.google.com/uc?export=view&id=15EGAv8OW868fQ3jXCB3i44L1XxwaUaSn"  alt="Similarweb Pricing & Plans">
+</a>
+
 | Plan | Price | Users | Historical Data | Keywords/Table | Key Features (Shortened) |
 | --- | --- | --- | --- | --- | --- |
 | **Starter** | $1,500/year or $199/month | 1 | 3 months | 1,000 | Worldwide view, basic SERP, limited filtering. |
